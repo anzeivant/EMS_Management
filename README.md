@@ -1,0 +1,2 @@
+本项目用于存储EMS设备的控制源代码
+其中ArduinoSoftware的代码来源于https://bitbucket.org/MaxPfeiffer/letyourbodymove/wiki/Home，但经过了部分修改
